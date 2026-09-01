@@ -16,7 +16,7 @@ I’m currently focused on building a strong foundation in C programming, proble
 📖 Always curious to learn new technologies
 🛠️ Technologies & Tools
 Currently Learning
-<p align="left"> <img src="https://share.google/AAMyI3UHk7eVJ5iuK" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
+<p align="left"> <img src="xyz.pvt" width="45" height="45" alt="this is panda image"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
 
 C Programming • Git • GitHub • VS Code
 
